@@ -17,4 +17,26 @@
 - [ ] 批注格式
 - [ ] 图片
 - [ ] 超链接
+- [ ] 插入多余4000个CellStyle会报错
+
 ...
+
+#### description
+```yaml
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>4.0.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>4.0.0</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml-schemas</artifactId>
+    <version>4.0.0</version>
+</dependency>
+```
