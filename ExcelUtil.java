@@ -1,5 +1,5 @@
-package cc.mrbird.febs.common.utils;
-import cc.mrbird.febs.common.entity.ExcelCell;
+package xxx.common.utils;
+import xxx.common.entity.ExcelCell;
 import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.ss.util.CellRangeAddress;
